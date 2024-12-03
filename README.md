@@ -6,3 +6,9 @@ Uppercase Letters: At least one uppercase letter increases the variability of th
 Lowercase Letters: At least one lowercase letter adds diversity to the password.
 Numbers: Including numbers increases the entropy of the password.
 Special Characters: Characters like !@#$%^&* make the password less predictable.
+
+License
+This project is licensed under the MIT License
+
+Sponsership
+This project is sponsered by Prodigy InfoTech
